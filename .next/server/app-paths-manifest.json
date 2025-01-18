@@ -1,0 +1,18 @@
+{
+  "/api/auth/demo/route": "app/api/auth/demo/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/recruiter/analytics/page": "app/dashboard/recruiter/analytics/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/dashboard/retiree/analytics/page": "app/dashboard/retiree/analytics/page.js",
+  "/dashboard/recruiter/page": "app/dashboard/recruiter/page.js",
+  "/employer/dashboard/page": "app/employer/dashboard/page.js",
+  "/dashboard/retiree/page": "app/dashboard/retiree/page.js",
+  "/login/page": "app/login/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/post-job/page": "app/post-job/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/register/page": "app/register/page.js"
+}
